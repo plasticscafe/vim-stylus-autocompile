@@ -1,4 +1,4 @@
 vim-stylus-autocompile
 ======================
 
-stylus autocompile vim plugin
+stylus autocompile vim plugin!
